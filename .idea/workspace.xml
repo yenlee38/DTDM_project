@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1181defb-1647-40c8-8f5e-8853ab4654c4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MVCCloud/.vs/MVCCloud/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/.vs/MVCCloud/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/.vs/MVCCloud/config/applicationhost.config" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/.vs/MVCCloud/config/applicationhost.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/.vs/MVCCloud/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/.vs/MVCCloud/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/bin/Debug/netcoreapp3.1/MVCCloud.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.dll" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/MVCCloud.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/AddNewStudent.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/AddNewStudent.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/DetailStudent.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/DetailStudent.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/EditStudent.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/EditStudent.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/GetEditStudent.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/GetEditStudent.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Home/Privacy.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Shared/Error.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_Layout.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/Razor/Views/_ViewStart.cshtml.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/Debug/netcoreapp3.1/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/MVCCloud.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/MVCCloud.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/MVCCloud.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/MVCCloud.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/MVCCloud/MVCCloud/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo - Copy/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/demo - Copy/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n8e6jjrfeKEDUudPEz2eltSFAz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/demo - Copy" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1181defb-1647-40c8-8f5e-8853ab4654c4" name="Default Changelist" comment="" />
+      <created>1610775974109</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610775974109</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610776086801">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="37" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1610776086801" />
+    <state x="463" y="136" key="FileChooserDialogImpl" timestamp="1610776118445">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="136" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1610776118445" />
+  </component>
+</project>
